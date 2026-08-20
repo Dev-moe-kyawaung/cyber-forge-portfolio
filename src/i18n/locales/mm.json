@@ -1,3 +1,4 @@
+
 {
   "meta": {
     "title": "Cyber·Forge Portfolio",
@@ -46,6 +47,47 @@
     "overview": "အကျဉ်းချုပ်",
     "viewCode": "Code ကို ကြည့်ရန်",
     "openLiveDemo": "Live Demo ကို ဖွင့်ရန်"
+  },
+  "projects": {
+    "neonTask": {
+      "title": "Neon Task",
+      "shortDescription": "Real-time sync နှင့် offline support ပါဝင်သော cyberpunk ပုံစံ task manager။",
+      "description": "Neon Task သည် Next.js 15, Tailwind နှင့် Kotlin Ktor backend တို့ဖြင့် တည်ဆောက်ထားသော PWA task manager ဖြစ်သည်။ Optimistic UI updates, end-to-end encryption နှင့် offline လုံးဝရနိုင်သော အတွေ့အကြုံကို ပေးစွမ်းသည်။",
+      "highlights": [
+        "Service workers များဖြင့် offline-first architecture",
+        "WebSockets မှတစ်ဆင့် real-time sync",
+        "End-to-end encrypted tasks"
+      ],
+      "techStack": [
+        "Next.js 15",
+        "TypeScript",
+        "Tailwind CSS",
+        "Ktor",
+        "PostgreSQL"
+      ],
+      "role": "Full-stack developer",
+      "period": "2024–2025",
+      "overview": "ပြဿနာ၊ ချဉ်းကပ်ပုံ၊ architecture ဆိုင်ရာ ဆုံးဖြတ်ချက်များနှင့် အဓိက ရလဒ်များကို ဖော်ပြပါ။ Diagram များ၊ code snippets များနှင့် စွမ်းဆောင်ရည်ဆိုင်ရာ တိုင်းတာမှုများကို လိုအပ်သလို ထည့်သွင်းပါ။"
+    },
+    "cyberPortfolio": {
+      "title": "Cyber Portfolio",
+      "shortDescription": "3D animations နှင့် glassmorphism ပါဝင်သော စွမ်းဆောင်ရည်မြင့် portfolio site။",
+      "description": "Three.js နောက်ခံများ၊ Framer Motion animations များနှင့် modular component architecture တို့ဖြင့် ခေတ်မီ frontend နည်းပညာများကို ပြသထားသော portfolio template။",
+      "highlights": [
+        "Three.js ဖြင့် တည်ဆောက်ထားသော animated background",
+        "Glassmorphic UI components",
+        "Lighthouse score 98+"
+      ],
+      "techStack": [
+        "Next.js 15",
+        "React 18",
+        "Three.js",
+        "Framer Motion"
+      ],
+      "role": "Frontend engineer",
+      "period": "2025",
+      "overview": "ဒီဇိုင်းဆိုင်ရာ ရည်မှန်းချက်များ၊ animation ဗျူဟာ၊ စွမ်းဆောင်ရည် မြှင့်တင်မှုများနှင့် modular architecture က မည်သို့ project များစွာတွင် ပြန်လည်အသုံးပြုနိုင်စေကြောင်းကို ရှင်းပြပါ။"
+    }
   },
   "notFound": {
     "code": "404",
