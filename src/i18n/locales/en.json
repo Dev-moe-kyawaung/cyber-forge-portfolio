@@ -47,6 +47,47 @@
     "viewCode": "View Code",
     "openLiveDemo": "Open Live Demo"
   },
+  "projects": {
+    "neonTask": {
+      "title": "Neon Task",
+      "shortDescription": "A cyberpunk-styled task manager with real-time sync and offline support.",
+      "description": "Neon Task is a PWA task manager built with Next.js 15, Tailwind, and a Kotlin Ktor backend. It features optimistic UI updates, end-to-end encryption, and a fully offline-capable experience.",
+      "highlights": [
+        "Offline-first architecture with service workers",
+        "Real-time sync via WebSockets",
+        "End-to-end encrypted tasks"
+      ],
+      "techStack": [
+        "Next.js 15",
+        "TypeScript",
+        "Tailwind CSS",
+        "Ktor",
+        "PostgreSQL"
+      ],
+      "role": "Full-stack developer",
+      "period": "2024–2025",
+      "overview": "Describe the problem, your approach, architecture decisions, and key outcomes. Include diagrams, code snippets, and performance metrics as needed."
+    },
+    "cyberPortfolio": {
+      "title": "Cyber Portfolio",
+      "shortDescription": "A high-performance portfolio site with 3D animations and glassmorphism.",
+      "description": "A portfolio template showcasing advanced frontend techniques: Three.js backgrounds, Framer Motion animations, and a modular component architecture.",
+      "highlights": [
+        "Three.js animated background",
+        "Glassmorphic UI components",
+        "Lighthouse score 98+"
+      ],
+      "techStack": [
+        "Next.js 15",
+        "React 18",
+        "Three.js",
+        "Framer Motion"
+      ],
+      "role": "Frontend engineer",
+      "period": "2025",
+      "overview": "Explain the design goals, animation strategy, performance optimizations, and how the modular architecture supports reuse across projects."
+    }
+  },
   "notFound": {
     "code": "404",
     "message": "This page doesn’t exist or has been moved.",
