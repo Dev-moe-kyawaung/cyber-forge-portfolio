@@ -1,7 +1,16 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { SiteLayout } from "@/components/layout/SiteLayout";
+import { redirect } from "next/navigation";
 
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  // Redirect root to /en by default
+  redirect("/en");
+}
 export const metadata: Metadata = {
   title: "Cyber·Forge Portfolio",
   description:
