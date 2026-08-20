@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "Cyber·Forge Portfolio",
+    "description": "Senior Android & Full‑Stack Developer portfolio with a Cyber‑Forge aesthetic."
+  },
+  "nav": {
+    "projects": "Projects",
+    "allProjects": "All Projects",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "role": "Senior Android & Full‑Stack Developer",
+    "title": "Building Cyber‑Grade Digital Experiences",
+    "subtitle": "I design and build high‑performance web and mobile apps with a focus on modern UI/UX, clean architecture, and automated deployment.",
+    "viewProjects": "View Projects",
+    "aboutMe": "About Me"
+  },
+  "projectsSection": {
+    "titlePrefix": "Selected ",
+    "titleHighlight": "Projects",
+    "seeAll": "See All"
+  },
+  "aboutSection": {
+    "titlePrefix": "About ",
+    "titleHighlight": "Me",
+    "p1": "I’m a senior Android and full‑stack developer based in Bexley, England. I specialize in Kotlin, Next.js, and modern frontend stacks, with a strong focus on performance, design quality, and CI/CD automation.",
+    "p2": "My work spans from advanced Android apps with Jetpack to production‑ready Next.js portfolios and Kotlin Ktor backends with comprehensive integration testing.",
+    "p3": "I enjoy blending English and Burmese in technical content, experimenting with neon/glassmorphic UIs, and shipping polished, automated deployments."
+  },
+  "projectsPage": {
+    "titlePrefix": "All ",
+    "titleHighlight": "Projects",
+    "subtitle": "A collection of web, mobile, and full‑stack projects with detailed case studies."
+  },
+  "caseStudy": {
+    "allProjects": "← All Projects",
+    "titleSuffix": "Case Study",
+    "role": "Role",
+    "period": "Period",
+    "links": "Links",
+    "repository": "Repository",
+    "liveDemo": "Live Demo",
+    "highlights": "Highlights",
+    "techStack": "Tech Stack",
+    "overview": "Overview",
+    "viewCode": "View Code",
+    "openLiveDemo": "Open Live Demo"
+  },
+  "notFound": {
+    "code": "404",
+    "message": "This page doesn’t exist or has been moved.",
+    "goHome": "Go back home"
+  },
+  "footer": {
+    "rights": "© {year} Cyber·Forge. All rights reserved.",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "email": "Email"
+  },
+  "localeSwitcher": {
+    "en": "English",
+    "mm": "မြန်မာ"
+  }
+}
