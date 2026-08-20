@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "Cyber·Forge Portfolio",
+    "description": "Cyber‑Forge အလှဆင်မှုဖြင့် Senior Android နှင့် Full‑Stack Developer portfolio။"
+  },
+  "nav": {
+    "projects": "ပရောဂျက်များ",
+    "allProjects": "ပရောဂျက်အားလုံး",
+    "about": "အကြောင်း",
+    "contact": "ဆက်သွယ်ရန်"
+  },
+  "hero": {
+    "role": "Senior Android နှင့် Full‑Stack Developer",
+    "title": "Cyber‑Grade Digital အတွေ့အကြုံများကို တည်ဆောက်ခြင်း",
+    "subtitle": "ခေတ်မီ UI/UX၊ သန့်ရှင်းသော architecture နှင့် automated deployment တို့ကို အဓိကထား၍ စွမ်းဆောင်ရည်မြင့် web နှင့် mobile app များကို ဒီဇိုင်းဆွဲပြီး တည်ဆောက်သည်။",
+    "viewProjects": "ပရောဂျက်များကို ကြည့်ရန်",
+    "aboutMe": "ကျွန်ုပ်အကြောင်း"
+  },
+  "projectsSection": {
+    "titlePrefix": "ရွေးချယ်ထားသော ",
+    "titleHighlight": "ပရောဂျက်များ",
+    "seeAll": "အားလုံးကို ကြည့်ရန်"
+  },
+  "aboutSection": {
+    "titlePrefix": "ကျွန်ုပ်အကြောင်း ",
+    "titleHighlight": "",
+    "p1": "ကျွန်ုပ်သည် Bexley, England တွင် အခြေစိုက်သော senior Android နှင့် full‑stack developer တစ်ဦးဖြစ်သည်။ Kotlin, Next.js နှင့် ခေတ်မီ frontend stack များတွင် ကျွမ်းကျင်ပြီး စွမ်းဆောင်ရည်၊ ဒီဇိုင်းအရည်အသွေးနှင့် CI/CD automation ကို အဓိကထားသည်။",
+    "p2": "Jetpack ဖြင့် တည်ဆောက်ထားသော advanced Android app များမှစ၍ production‑ready Next.js portfolio များနှင့် စမ်းသပ်မှုအပြည့်အဝပါဝင်သော Kotlin Ktor backend များအထိ လုပ်ငန်းစဉ်များကို ကိုင်တွယ်သည်။",
+    "p3": "နည်းပညာဆိုင်ရာ အကြောင်းအရာများတွင် အင်္ဂလိပ်နှင့် မြန်မာကို ရောစပ်ရေးသားခြင်း၊ neon/glassmorphic UI များကို စမ်းသပ်ခြင်းနှင့် polished, automated deployments များကို ထုတ်လွှင့်ခြင်းကို နှစ်သက်သည်။"
+  },
+  "projectsPage": {
+    "titlePrefix": "ပရောဂျက် ",
+    "titleHighlight": "အားလုံး",
+    "subtitle": "အသေးစိတ် case study များပါဝင်သော web, mobile နှင့် full‑stack ပရောဂျက်များ စုစည်းမှု။"
+  },
+  "caseStudy": {
+    "allProjects": "← ပရောဂျက်အားလုံး",
+    "titleSuffix": "Case Study",
+    "role": "တာဝန်",
+    "period": "ကာလ",
+    "links": "လင့်များ",
+    "repository": "Repository",
+    "liveDemo": "Live Demo",
+    "highlights": "ထူးခြားချက်များ",
+    "techStack": "Tech Stack",
+    "overview": "အကျဉ်းချုပ်",
+    "viewCode": "Code ကို ကြည့်ရန်",
+    "openLiveDemo": "Live Demo ကို ဖွင့်ရန်"
+  },
+  "notFound": {
+    "code": "404",
+    "message": "ဤစာမျက်နှာ မရှိတော့ပါ သို့မဟုတ် ရွှေ့ပြောင်းလိုက်ပါသည်။",
+    "goHome": "မူလစာမျက်နှာသို့ ပြန်သွားရန်"
+  },
+  "footer": {
+    "rights": "© {year} Cyber·Forge။ အခွင့်အရေးအားလုံး ဆောင်ရွက်ထားသည်။",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "email": "အီးမေးလ်"
+  },
+  "localeSwitcher": {
+    "en": "English",
+    "mm": "မြန်မာ"
+  }
+}
