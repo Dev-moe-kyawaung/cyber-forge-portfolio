@@ -2,11 +2,13 @@
 
 import { GlitchText } from "@/components/effects/GlitchText";
 import { NeonButton } from "@/components/effects/NeonButton";
+import { HeroBackground } from "@/components/effects/HeroBackground";
 
 export function HeroSection() {
   return (
-    <section className="cf-section cf-neon-grid-bg">
-      <div className="cf-container">
+    <section className="cf-section cf-neon-grid-bg relative overflow-hidden">
+      <HeroBackground />
+      <div className="cf-container relative z-10">
         <div className="max-w-3xl">
           <p className="text-sm uppercase tracking-widest text-[var(--cf-text-muted)] mb-3">
             Senior Android & Full‑Stack Developer
