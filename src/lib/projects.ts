@@ -57,3 +57,32 @@ export function getProjectBySlug(slug: string): Project | undefined {
 export function getAllProjectSlugs(): string[] {
   return PROJECTS.map((p) => p.slug);
 }
+export interface ProjectMeta {
+  slug: string;
+  image: string;
+  repoUrl?: string;
+  liveUrl?: string;
+}
+
+export const PROJECTS: ProjectMeta[] = [
+  {
+    slug: "neon-task",
+    image: "/projects/neon-task.jpg",
+    repoUrl: "https://github.com/yourusername/neon-task",
+    liveUrl: "https://neon-task.example.com",
+  },
+  {
+    slug: "cyber-portfolio",
+    image: "/projects/cyber-portfolio.jpg",
+    repoUrl: "https://github.com/yourusername/cyber-portfolio",
+    liveUrl: "https://cyber-portfolio.example.com",
+  },
+];
+
+export function getProjectMetaBySlug(slug: string): ProjectMeta | undefined {
+  return PROJECTS.find((p) => p.slug === slug);
+}
+
+export function getAllProjectSlugs(): string[] {
+  return PROJECTS.map((p) => p.slug);
+}
